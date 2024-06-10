@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Special offers for May"
+  },
+  "cart": {
+    "title": "My Cart"
+  },
+  "user_menu": {
+    "title": "My Account"
+  },
+  "menu": {
+    "title": "Categories"
+  },
+  "links": {
+    "stores": "Stores",
+    "help": "Help"
+  }
+}

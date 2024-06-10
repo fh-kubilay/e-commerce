@@ -1,0 +1,18 @@
+{
+  "search": {
+    "placeholder": "Mayıs ayına özel fırsatlar"
+  },
+  "cart": {
+    "title": "Sepetim"
+  },
+  "user_menu": {
+    "title": "Hesabım"
+  },
+  "menu": {
+    "title": "Kategoriler"
+  },
+  "links": {
+    "stores": "Mağazalar",
+    "help": "Yardım"
+  }
+}
