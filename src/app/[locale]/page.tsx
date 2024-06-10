@@ -8,7 +8,7 @@ export default function Home() {
       <main className={'container'}>
           <Carousel className={'mt-5'} />
           <BannerCarousel className={'mt-5'} />
-          <Showcase className={'mt-5'} />
+          <CarouselShowcase className={'mt-5'} />
       </main>
   );
 }
